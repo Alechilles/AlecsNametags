@@ -8,7 +8,6 @@
   "requiresTameworkDependency": true,
   "zipIncludes": [
     "manifest.json",
-    "Common",
     "Server",
     "README.md",
     "CHANGELOG.md"
@@ -16,7 +15,7 @@
   "curseforge": {
     "projectId": "1464844",
     "releaseType": "release",
-    "gameVersions": []
+    "gameVersionTypeIds": [65437]
   },
   "modtale": {
     "projectId": "81a4e526-3444-42ac-9117-aa735702efb7",
