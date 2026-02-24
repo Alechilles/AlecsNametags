@@ -1,0 +1,30 @@
+{
+  "modName": "Alec's Nametags!",
+  "repository": "Alechilles/AlecsNametags",
+  "packaging": "zip",
+  "artifactNameTemplate": "Alec's Nametags! v{version}.zip",
+  "versionSource": "manifest",
+  "versionFile": "manifest.json",
+  "requiresTameworkDependency": true,
+  "zipIncludes": [
+    "manifest.json",
+    "Common",
+    "Server",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "curseforge": {
+    "projectId": "1464844",
+    "releaseType": "release",
+    "gameVersions": []
+  },
+  "modtale": {
+    "projectId": "81a4e526-3444-42ac-9117-aa735702efb7",
+    "releaseChannel": "stable",
+    "gameVersions": ["2026.02.19-1A311A592"],
+    "versionFieldName": "versionNumber",
+    "changelogFieldName": "changelog",
+    "channelFieldName": "channel",
+    "gameVersionFieldName": "gameVersions"
+  }
+}
