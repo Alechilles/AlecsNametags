@@ -1,0 +1,19 @@
+{
+  "ItemId": "Alecs_Nametag",
+  "AllowedRoles": {
+    "Mode": "AllowAll"
+  },
+  "Naming": {
+    "RequireTamed": true,
+    "RequireOwner": true,
+    "AllowUnownedWhenRequireOwner": true,
+    "AllowRename": true,
+    "MinLength": 1,
+    "MaxLength": 24,
+    "AllowedChars": "LettersNumbersSpaces",
+    "TrimWhitespace": true,
+    "ReplaceExisting": true,
+    "ConsumeItem": true,
+    "CooldownMs": 2000
+  }
+}
