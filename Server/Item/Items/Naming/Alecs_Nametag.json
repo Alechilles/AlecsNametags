@@ -9,7 +9,8 @@
     "Primary": {
       "Interactions": [
         {
-          "Type": "TameworkNameNpc"
+          "Type": "TameworkNameNpc",
+          "ConfigId": "NameItem_Alecs_Nametag"
         }
       ]
     }
