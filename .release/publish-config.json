@@ -15,12 +15,16 @@
   "curseforge": {
     "projectId": "1464844",
     "releaseType": "release",
-    "gameVersionTypeIds": [65437]
+    "gameVersionTypeIds": [65437],
+    "requiredProjects": [
+      { "id": 1447962, "slug": "alecs-tamework", "type": "requiredDependency" }
+    ]
   },
   "modtale": {
     "projectId": "81a4e526-3444-42ac-9117-aa735702efb7",
     "releaseChannel": "stable",
     "gameVersions": ["2026.02.19-1a311a592"],
+    "requiredModIds": ["3145c0f3-a890-49b3-bc87-0648b8bd736c"],
     "versionFieldName": "versionNumber",
     "changelogFieldName": "changelog",
     "channelFieldName": "channel",
