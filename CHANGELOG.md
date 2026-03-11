@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+## 1.1.2 - Release Publish Hotfix - 2026-03-11
+### Changed
+- Updated `manifest.json` version to `1.1.2`.
+- Updated release publish metadata config to stop submitting dependency relation payloads that are currently rejected by CurseForge.
+
 ## 1.1.1 - Release Tooling + Config Fixes - 2026-03-11
 ### Added
 - Added release automation scaffolding (`publish.yml`, release scripts, and `.release/publish-config.json`).
