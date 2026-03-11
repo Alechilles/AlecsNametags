@@ -1,7 +1,7 @@
 {
   "Group": "Alechilles",
   "Name": "Alec's Nametags!",
-  "Version": "1.1.0",
+  "Version": "1.1.1",
   "Description": "Adds a craftable nametag item powered by Alec's Tamework.",
   "Authors": [
     {
@@ -22,5 +22,6 @@
   "IncludesAssetPack": true,
   "SubPlugins": []
 }
+
 
 
