@@ -1,14 +1,13 @@
 # Changelog
 
 ## Unreleased
-### Changed
-- Restored release dependency metadata for publishing (`requiredProjects` with CurseForge slugs and `requiredModIds` for Modtale).
-- Synced `publish-curseforge.ps1` with the shared dependency-aware release script used by the other Alec mods.
 
 ## 1.1.2 - Release Publish Hotfix - 2026-03-11
 ### Changed
 - Updated `manifest.json` version to `1.1.2`.
 - Updated release publish metadata config to stop submitting dependency relation payloads that are currently rejected by CurseForge.
+- Restored release dependency metadata for publishing (`requiredProjects` with CurseForge slugs and `requiredModIds` for Modtale).
+- Synced `publish-curseforge.ps1` with the shared dependency-aware release script used by the other Alec mods.
 
 ## 1.1.1 - Release Tooling + Config Fixes - 2026-03-11
 ### Added
