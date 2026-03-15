@@ -27,4 +27,4 @@ A lightweight mod that adds a craftable nametag item for naming companions using
 4. Enter the desired name in the naming prompt.
 
 ## Requirements
-- Alechilles:Alec's Tamework! 2.1.x
+- Alechilles:Alec's Tamework! 2.4.x

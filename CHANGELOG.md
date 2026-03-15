@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 1.1.3 - Release Alignment (Tamework 2.4) - 2026-03-15
+### Changed
+- Updated `manifest.json` version to `1.1.3`.
+- Updated dependency declaration to `Alechilles:Alec's Tamework! 2.4.x`.
+- Normalized `manifest.json` `ServerVersion` to lowercase (`2026.02.19-1a311a592`) for consistency with the current release set.
+- Updated README requirements to reflect Tamework `2.4.x`.
+
 ## 1.1.2 - Release Publish Hotfix - 2026-03-11
 ### Changed
 - Updated `manifest.json` version to `1.1.2`.
