@@ -28,3 +28,8 @@ A lightweight mod that adds a craftable nametag item for naming companions using
 
 ## Requirements
 - Alechilles:Alec's Tamework! 2.4.x
+
+## Wiki
+- [Wiki Home](wiki/Home.md)
+- [Items Index](wiki/Items/-Items.md)
+- [Nametag Item Page](wiki/Items/Nametag.md)

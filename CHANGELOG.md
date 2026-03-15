@@ -3,6 +3,9 @@
 ## Unreleased
 
 ## 1.1.3 - Release Alignment (Tamework 2.4) - 2026-03-15
+### Added
+- Added UpdateChecker support in `manifest.json`.
+
 ### Changed
 - Updated `manifest.json` version to `1.1.3`.
 - Updated dependency declaration to `Alechilles:Alec's Tamework! 2.4.x`.
