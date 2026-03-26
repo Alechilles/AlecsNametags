@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+## 1.1.4 - Release Metadata Cleanup + Compatibility Refresh - 2026-03-26
+### Changed
+- Updated `manifest.json` version to `1.1.4`.
+- Updated release compatibility metadata to `ServerVersion`/`gameVersions` `2026.03.26-89796e57b`.
+- Updated README badge link for Animal Husbandry to the current CurseForge URL.
+
+### Fixed
+- Removed unsupported Modtale dependency relation payload from `.release/publish-config.json` so release submissions do not include rejected dependency metadata.
+
 ## 1.1.3 - Release Alignment (Tamework 2.4) - 2026-03-15
 ### Added
 - Added UpdateChecker support in `manifest.json`.
@@ -44,5 +53,4 @@
 - Initial release of Alec's Nametags.
 - Added craftable `Alecs_Nametag` item.
 - Added Tamework naming config (`NameItem_Alecs_Nametag`) and English localization.
-
 
