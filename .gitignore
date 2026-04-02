@@ -1,2 +1,8 @@
 # Release pipeline
 artifacts/
+/.idea/.gitignore
+/.idea/Alec's Nametags!.iml
+/.idea/libraries/artifacts.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
