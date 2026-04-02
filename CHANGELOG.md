@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+## 1.2.0 - Random Name System Support - 2026-04-02
+### Added
+- Added `RandomNamesId: "TwNamesDefault"` to `NameItem_Alecs_Nametag`, enabling compatibility with Tamework's random-name system for naming flows.
+
+### Changed
+- Updated `manifest.json` version to `1.2.0`.
+- Expanded `.gitignore` to ignore local IntelliJ project files under `.idea/`.
+
 ## 1.1.4 - Release Metadata Cleanup + Compatibility Refresh - 2026-03-26
 ### Changed
 - Updated `manifest.json` version to `1.1.4`.
@@ -53,4 +61,3 @@
 - Initial release of Alec's Nametags.
 - Added craftable `Alecs_Nametag` item.
 - Added Tamework naming config (`NameItem_Alecs_Nametag`) and English localization.
-
