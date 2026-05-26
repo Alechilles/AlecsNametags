@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 1.2.1 - Update 5 Compatibility + Publishing Metadata - 2026-05-26
+
+### Changed
+- Updated release metadata for Hytale server `0.5.0`, Alec's Tamework `2.11.x`, and manifest version `1.2.1`.
+- Updated CurseForge publishing to upload changelogs as HTML.
+- Updated Modtale release metadata to target Hytale `0.5.0`.
+
 ## 1.2.0 - Random Name System Support - 2026-04-02
 ### Added
 - Added `RandomNamesId: "TwNamesDefault"` to `NameItem_Alecs_Nametag`, enabling compatibility with Tamework's random-name system for naming flows.
