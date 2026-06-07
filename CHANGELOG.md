@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 1.2.2 - Asset Pack Icon - 2026-06-07
 
 ### Added
 - Added a 256x256 in-game icon for the Nametags asset pack.
