@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+### Added
+- Added a 256x256 in-game icon for the Nametags asset pack.
+
 ## 1.2.1 - Update 5 Compatibility + Publishing Metadata - 2026-05-26
 
 ### Changed
