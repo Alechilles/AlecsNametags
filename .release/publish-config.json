@@ -10,6 +10,7 @@
     "manifest.json",
     "telemetry",
     "icon-256.png",
+    "Common",
     "Server",
     "README.md",
     "CHANGELOG.md"
