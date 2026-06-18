@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "projectId": "alecs-nametags",
+  "displayName": "Alec's Nametags!",
+  "runtimeMode": "dependency",
+  "capture": {
+    "uncaughtExceptions": false,
+    "setupFailures": false,
+    "startFailures": false,
+    "exceptionalWorldRemovals": false
+  },
+  "events": {
+    "errors": { "enabled": false },
+    "lifecycle": { "enabled": false },
+    "breadcrumbs": { "enabled": false, "automatic": false }
+  },
+  "performance": { "enabled": false },
+  "usage": { "enabled": false },
+  "stats": { "enabled": true },
+  "reports": { "enabled": false },
+  "defaults": {
+    "enabled": true,
+    "destinationMode": "hosted"
+  },
+  "hosted": {
+    "projectKey": "proj_T27jnWWr1SrJUER43zLfAEDb"
+  }
+}
