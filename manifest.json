@@ -1,7 +1,7 @@
 {
   "Group": "Alechilles",
   "Name": "Alec's Nametags!",
-  "Version": "1.2.2",
+  "Version": "1.2.3",
   "Description": "Adds a craftable nametag item powered by Alec's Tamework.",
   "Authors": [
     {
@@ -12,9 +12,9 @@
     }
   ],
   "Website": "",
-  "ServerVersion": "0.5.0",
+  "ServerVersion": "0.5.x",
   "Dependencies": {
-    "Alechilles:Alec's Tamework!": "2.11.x"
+    "Alechilles:Alec's Tamework!": "2.15.x"
   },
   "OptionalDependencies": {},
   "LoadBefore": {},

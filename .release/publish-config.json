@@ -27,7 +27,7 @@
   "modtale": {
     "projectId": "81a4e526-3444-42ac-9117-aa735702efb7",
     "releaseChannel": "stable",
-    "gameVersions": ["0.5.0"],
+    "gameVersions": ["0.5.3"],
     "versionFieldName": "versionNumber",
     "changelogFieldName": "changelog",
     "channelFieldName": "channel",
