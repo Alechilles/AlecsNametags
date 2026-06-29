@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "projectId": "alecs-nametags",
+  "displayName": "Alec's Nametags!",
+  "telemetry": {
+    "stats": {
+      "supported": true
+    }
+  },
+  "ui": {
+    "iconTexturePath": "AlecsNametags/Telemetry/ConsentIcon.png"
+  },
+  "defaults": {
+    "enabled": true,
+    "destinationMode": "hosted"
+  },
+  "hosted": {
+    "projectKey": "proj_T27jnWWr1SrJUER43zLfAEDb"
+  }
+}
