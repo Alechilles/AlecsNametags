@@ -51,7 +51,7 @@
       }
     ]
   },
-  "MaxStack": 1,
+  "MaxStack": 100,
   "Scale": 1.3,
   "Icon": "Icons/ItemsGenerated/Tamework_Nametag.png",
   "UsePlayerAnimations": true,

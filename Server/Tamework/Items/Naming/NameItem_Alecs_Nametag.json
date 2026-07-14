@@ -15,6 +15,6 @@
     "TrimWhitespace": true,
     "ReplaceExisting": true,
     "ConsumeItem": true,
-    "CooldownMs": 2000
+    "CooldownMs": 500
   }
 }

@@ -1,9 +1,11 @@
 # Changelog
 
-## Unreleased
+## 1.2.4 - Nametag Stack and Telemetry Updates - 2026-07-14
 
 ### Changed
 - Moved the telemetry descriptor to `Server/Telemetry/project.json`, updated it to the current stats descriptor schema, and removed dev endpoint overrides so Alec's Telemetry uses its default hosted endpoint.
+- Increased the nametag stack size from 1 to 100 and reduced the naming cooldown from 2 seconds to 0.5 seconds.
+- Declared Hytale `0.5.x` compatibility; Modtale publishing targets concrete game version `0.5.3`.
 
 ## 1.2.3 - Telemetry Stats and Release Metadata - 2026-06-18
 
