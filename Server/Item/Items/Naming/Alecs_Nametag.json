@@ -3,7 +3,7 @@
     "Name": "server.items.Alecs_Nametag.name",
     "Description": "server.items.Alecs_Nametag.description"
   },
-  "Quality": "Tool",
+  "Quality": "Uncommon",
   "PlayerAnimationsId": "Item",
   "Interactions": {
     "Primary": {
