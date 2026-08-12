@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2.5 - Tamework 3 Compatibility and Nametag Updates - 2026-08-11
+### Added
+- Added Modifold as a release destination.
+
+### Changed
+- Updated the Alec's Tamework! dependency to version 3.
+- Changed the Nametag item quality to Uncommon.
+- Updated project author and website links.
+
 ## 1.2.4 - Nametag Stack and Telemetry Updates - 2026-07-14
 
 ### Changed
