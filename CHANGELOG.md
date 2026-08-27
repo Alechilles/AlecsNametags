@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.6 - Stable 0.6 Compatibility Hotfix - 2026-08-27
+
+### Changed
+- Expanded declared Hytale Server compatibility to `>=0.5.0 <0.7.0`.
+
 ## 1.2.5 - Tamework 3 Compatibility and Nametag Updates - 2026-08-11
 ### Added
 - Added Modifold as a release destination.
