@@ -5,6 +5,12 @@
 ### Added
 - Added German, Spanish, French, Canadian French, and Brazilian Portuguese translations for the Nametag item.
 
+## 1.2.7 - Beacon telemetry descriptor migration - 2026-09-01
+
+### Changed
+
+- Moved the passive telemetry descriptor to Beacon's `Server/Beacon/project.json` contract.
+
 ## 1.2.6 - Stable 0.6 Compatibility Hotfix - 2026-08-27
 
 ### Changed
