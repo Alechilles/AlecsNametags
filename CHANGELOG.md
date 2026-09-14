@@ -1,9 +1,12 @@
 # Changelog
 
-## Unreleased
+## 1.2.8 - Tamework 4 Compatibility and Translations - 2026-09-14
 
 ### Added
 - Added German, Spanish, French, Canadian French, and Brazilian Portuguese translations for the Nametag item.
+
+### Changed
+- Updated the required Alec's Tamework dependency to `>=4.0.0 <5.0.0`. Install Tamework 4.0.0 or newer in the 4.x line before updating Nametags.
 
 ## 1.2.7 - Beacon telemetry descriptor migration - 2026-09-01
 

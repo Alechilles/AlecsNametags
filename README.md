@@ -38,7 +38,7 @@ A lightweight mod that adds a craftable nametag item for naming companions using
 4. Enter the desired name in the naming prompt.
 
 ## Requirements
-- [Alec's Tamework!](https://www.curseforge.com/hytale/mods/alecs-tamework)
+- [Alec's Tamework!](https://www.curseforge.com/hytale/mods/alecs-tamework) `>=4.0.0 <5.0.0`
 
 ## Wiki
 - [Nametag Item Page](https://wiki.hytalemodding.dev/mod/alecs-animal-husbandry/nametag)

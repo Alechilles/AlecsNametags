@@ -1,7 +1,7 @@
 {
   "Group": "Alechilles",
   "Name": "Alec's Nametags!",
-  "Version": "1.2.7",
+  "Version": "1.2.8",
   "Description": "Adds a craftable nametag item powered by Alec's Tamework.",
   "Authors": [
     {
@@ -14,7 +14,7 @@
   "Website": "https://modstats.io/authors/alec",
   "ServerVersion": ">=0.5.0 <0.7.0",
   "Dependencies": {
-    "Alechilles:Alec's Tamework!": ">=3.0.0 <4.0.0"
+    "Alechilles:Alec's Tamework!": ">=4.0.0 <5.0.0"
   },
   "OptionalDependencies": {},
   "LoadBefore": {},
