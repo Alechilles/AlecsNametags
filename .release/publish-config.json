@@ -18,7 +18,8 @@
     "projectId": "1464844",
     "releaseType": "release",
     "changelogType": "html",
-    "gameVersionTypeIds": [65437],
+    "gameVersion": "0.6",
+    "gameVersionTypeIds": [65438],
     "requiredProjects": [
       { "id": 1447962, "slug": "alecs-tamework", "type": "requiredDependency" }
     ]
