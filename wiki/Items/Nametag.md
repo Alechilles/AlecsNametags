@@ -5,7 +5,7 @@ Parent: [Items Index](/mod/alecs-nametags/items) | [Home](/mod/alecs-nametags/re
 The Nametag is the core item in Alec's Nametags. It opens a naming prompt for eligible companions.
 
 ## Crafting
-- Crafting station: **Farmer's Workbench**
+- Crafting station: **Farmer's Workbench** (or the **Animal Husbandry Workbench** when Alec's Animal Husbandry is installed)
 - Recipe:
   - 2x **Light Leather**
   - 1x **Gold Bar**

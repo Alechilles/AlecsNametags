@@ -1,0 +1,26 @@
+{
+  "Id": "Nametags_AH_Husbandry_Bench",
+  "$Comment": "Crafts the nametag at the Animal Husbandry Workbench instead of the Farming bench when Alec's Animal Husbandry is installed.",
+  "Target": "Server/Item/Items/Naming/Alecs_Nametag.json",
+  "When": {
+    "ModInstalled": "Alechilles:Alec's Animal Husbandry!"
+  },
+  "Priority": 100,
+  "Enabled": true,
+  "Operations": [
+    {
+      "Id": "move-to-husbandry-bench",
+      "Op": "Replace",
+      "Path": "/Recipe/BenchRequirement",
+      "Value": [
+        {
+          "Type": "Crafting",
+          "Id": "AH_Husbandrybench",
+          "Categories": [
+            "Husbandry"
+          ]
+        }
+      ]
+    }
+  ]
+}

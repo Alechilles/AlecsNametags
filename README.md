@@ -30,7 +30,7 @@ A lightweight mod that adds a craftable nametag item for naming companions using
   - supports letters, numbers, and spaces
 
 ## Usage
-1. Craft at a **Farmer's Workbench**
+1. Craft at a **Farmer's Workbench** (or the **Animal Husbandry Workbench** when Alec's Animal Husbandry is installed)
   - 2x **Light Leather**
   - 1x **Gold Bar**
 2. Hold **Nametag**.
