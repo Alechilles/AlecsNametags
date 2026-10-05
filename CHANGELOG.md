@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.3.0 - Animal Husbandry Workbench and Tamework 5 - 2026-10-05
+
+### Added
+- The Nametag is crafted at the Animal Husbandry Workbench instead of the Farmer's Workbench when Alec's Animal Husbandry 4.0.0 or newer is installed. Without Animal Husbandry, the recipe stays at the Farmer's Workbench.
+
+### Changed
+- Widened the required Alec's Tamework dependency to `>=4.0.0 <6.0.0`, so Nametags loads with Tamework 5.
+
 ## 1.2.8 - Tamework 4 Compatibility and Translations - 2026-09-14
 
 ### Added
