@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.1 - Hytale 0.7 Compatibility Hotfix - 2026-10-13
+
+### Changed
+
+- Expanded declared Hytale server compatibility to `>=0.5.0 <0.8.0`, allowing stable Hytale 0.7 while retaining the existing minimum version.
+
 ## 1.3.0 - Animal Husbandry Workbench and Tamework 5 - 2026-10-05
 
 ### Added
